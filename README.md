@@ -1,0 +1,2 @@
+# healthcare-cyber-threat-intelligence-and-risk-analytics
+To Understand healthcare/biotech organization about - What type of cyberattack are affecting healthcare companies, which vulnerabilities are actively exploited, which attack types are most common, which assets or system are at high risk, what security controls should be priotized, how to reduce ransomware, phishing, data breach, vulnerability risk.
