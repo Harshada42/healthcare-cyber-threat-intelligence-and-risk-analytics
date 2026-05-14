@@ -2,7 +2,8 @@
 To Understand healthcare/biotech organization about - What type of cyberattack are affecting healthcare companies, which vulnerabilities are actively exploited, which attack types are most common, which assets or system are at high risk, what security controls should be priotized, how to reduce ransomware, phishing, data breach, vulnerability risk.
 
 Dataset used:
-HHS Dataset - Public healthcare breach dataset from US Department of Health and Human Service, dataset contain reported case where healthcare related organization had breach of protected health information.
+Dataset Source: U.S. Department of Health and Human Services, Office for Civil Rights Breach Portal, 
+dataset contain reported case where healthcare related organization had breach of protected health information.
 Dataset contain: Healthcare breaches 500 or more individuals
 
 Why this Dataset is useful?
