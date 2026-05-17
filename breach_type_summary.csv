@@ -1,0 +1,6 @@
+type_of_breach,total_breaches,total_individuals_affected,avg_individuals_affected
+Hacking/IT Incident,632,288086241,455832.66
+Unauthorized Access/Disclosure,85,796801,9374.13
+Theft,6,25044,4174
+Loss,1,821,821
+Improper Disposal,1,34675,34675
