@@ -1,0 +1,4 @@
+risk_level,total_breaches,total_individuals_affected,avg_individuals_affected
+High,631,288389206,457035.19
+Medium,85,527511,6206.01
+Low,7,25865,3695
