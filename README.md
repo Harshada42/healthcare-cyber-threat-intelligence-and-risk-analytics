@@ -22,3 +22,13 @@ Project can help answer to:
 3. Are Hacking/IT incident increasing?
 4. Which system are more commonly involved - email, network, EMR, Laptop, or Paper record?
 5. Which risk should a healthcare/biotech organization fix first
+
+
+Gold layer outcomes:
+How many healthcare breaches are High, Medium, and Low risk?
+Which breach types are most common?
+Which breach types affect the most individuals?
+Which months have more breach activity?
+Which states report more healthcare breaches?
+Which cases are the highest risk?
+Which systems are commonly breached, such as network servers, email, EMR, paper/films?
