@@ -1,0 +1,20 @@
+location_of_breached_information,total_breaches,total_individuals_affected
+Network Server,493,284475275
+Email,144,2084567
+Electronic Medical Record,22,177350
+Paper/Films,15,81227
+Other,13,98272
+Desktop Computer,7,52337
+"Electronic Medical Record, Network Server",6,1098045
+"Network Server, Other",6,555825
+Laptop,4,8586
+"Desktop Computer, Network Server",3,259279
+"Email, Network Server",2,1053
+"Email, Laptop",1,792
+Other Portable Electronic Device,1,538
+"Other, Paper/Films",1,538
+"Electronic Medical Record, Email",1,500
+"Email, Network Server, Other",1,1143
+"Other, Other Portable Electronic Device, Paper/Films",1,8472
+"Desktop Computer, Electronic Medical Record, Email, Network Server",1,38061
+"Laptop, Other Portable Electronic Device, Paper/Films",1,722
